@@ -1,0 +1,6 @@
+django-environ
+langchain_core
+langgraph
+langchain_openai
+uvicorn
+fastapi
